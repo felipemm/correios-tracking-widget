@@ -3,7 +3,7 @@
 Plugin Name: Correios Tracking Widget
 Plugin URI: /
 Description: Add a tracking widget for product shipped with Correios (Brazil postal office)
-Author: Felipe Matos MOreira
+Author: Felipe Matos Moreira
 Version: 1
 Author URI: http://felipematos.com
 */
